@@ -1,0 +1,9 @@
+The steps to estimate the trajectory based on video data are given below.
+
+1) Install the packages using Requirements.txt file.
+
+2) Open the Jupyter Notebook Code file in jupyter notebook
+
+3) Clone GitHub repository from : https://github.com/Nouman-ML/Supp-Data.git
+
+4) Run the code in Jupyter Notebook
